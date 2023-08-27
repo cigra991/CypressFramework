@@ -85,7 +85,7 @@ describe('example to-do app', () => {
       // Since we want to perform multiple tests that start with checking
       // one element, we put it in the beforeEach hook
       // so that it runs at the start of every test.
-      // sadafgadasdas dsa dsad sa dsa
+      // dsadgas lazar a adsas
       cy.contains('Pay electric bill')
         .parent()
         .find('input[type=checkbox]')
